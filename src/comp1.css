@@ -1,0 +1,59 @@
+#name{
+    height:50px;
+    width:200px;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: lightskyblue;
+    margin-bottom: 10px;
+}
+#dept{
+    height:50px;
+    width:200px;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: lightskyblue;
+    margin-bottom: 10px;
+}
+#num{
+    height:50px;
+    width:200px;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: lightskyblue;
+    margin-bottom: 100px;
+}
+#submit{
+    padding-top: 10px;
+    font-size: 25px;
+    height:40px;
+    width:200px;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: lightskyblue;
+    margin: 0px auto;
+    cursor:pointer;
+    margin-bottom: 100px;
+}
+label{
+    font-size: 25px;
+}
+
+#d_div{
+    margin: 0px auto;
+    width: 80vw;
+    background-color: darkseagreen;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#c_div{
+    height: 30px;
+    border: 2px solid black;
+    font-weight: bold;
+    background-color: darkorchid;
+    border-radius: 15px;
+    
+}
